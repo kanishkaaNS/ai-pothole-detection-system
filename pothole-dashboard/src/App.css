@@ -9,9 +9,11 @@
   will-change: filter;
   transition: filter 300ms;
 }
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
+
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
@@ -20,6 +22,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -37,4 +40,12 @@
 
 .read-the-docs {
   color: #888;
+}
+
+/* Smooth out Leaflet zoom animations globally for both in and out */
+.leaflet-zoom-animated,
+.leaflet-zoom-anim .leaflet-zoom-animated,
+.leaflet-zoom-anim .leaflet-zoom-hide {
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important,
+    opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
 }

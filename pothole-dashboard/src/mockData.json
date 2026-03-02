@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "latitude": 12.971070086416853,
+    "longitude": 77.59346225482228,
+    "timestamp": "2026-02-09T12:00:41.407Z",
+    "detection_count": 4,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 2,
+    "latitude": 12.971413732319029,
+    "longitude": 77.59546135839439,
+    "timestamp": "2026-02-02T12:00:41.408Z",
+    "detection_count": 8,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 3,
+    "latitude": 12.970858071494801,
+    "longitude": 77.59559396503676,
+    "timestamp": "2026-03-02T12:00:41.408Z",
+    "detection_count": 30,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 4,
+    "latitude": 12.9706656241696,
+    "longitude": 77.59370684906612,
+    "timestamp": "2026-03-01T12:00:41.408Z",
+    "detection_count": 19,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 5,
+    "latitude": 12.970708462560578,
+    "longitude": 77.59563489832483,
+    "timestamp": "2026-02-12T12:00:41.408Z",
+    "detection_count": 25,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 6,
+    "latitude": 12.972021781273625,
+    "longitude": 77.59436728550519,
+    "timestamp": "2026-02-06T12:00:41.408Z",
+    "detection_count": 25,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 7,
+    "latitude": 12.972140890940041,
+    "longitude": 77.59436502027923,
+    "timestamp": "2026-02-04T12:00:41.408Z",
+    "detection_count": 26,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 8,
+    "latitude": 12.971474281463166,
+    "longitude": 77.5953276550923,
+    "timestamp": "2026-02-12T12:00:41.408Z",
+    "detection_count": 19,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 9,
+    "latitude": 12.971451028076537,
+    "longitude": 77.59553038932663,
+    "timestamp": "2026-02-10T12:00:41.408Z",
+    "detection_count": 21,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 10,
+    "latitude": 12.973085965244703,
+    "longitude": 77.5949105493044,
+    "timestamp": "2026-02-22T12:00:41.408Z",
+    "detection_count": 10,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 11,
+    "latitude": 12.971676448540416,
+    "longitude": 77.59370801204571,
+    "timestamp": "2026-02-20T12:00:41.408Z",
+    "detection_count": 19,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 12,
+    "latitude": 12.97154168331744,
+    "longitude": 77.5958735157183,
+    "timestamp": "2026-03-02T12:00:41.408Z",
+    "detection_count": 28,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 13,
+    "latitude": 12.972590912163513,
+    "longitude": 77.59510655326272,
+    "timestamp": "2026-02-05T12:00:41.408Z",
+    "detection_count": 23,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 14,
+    "latitude": 12.972966398785912,
+    "longitude": 77.59348447000872,
+    "timestamp": "2026-02-04T12:00:41.408Z",
+    "detection_count": 21,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 15,
+    "latitude": 12.972124436911349,
+    "longitude": 77.5960152264487,
+    "timestamp": "2026-02-19T12:00:41.408Z",
+    "detection_count": 21,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 16,
+    "latitude": 12.972382491227462,
+    "longitude": 77.59404160708235,
+    "timestamp": "2026-02-18T12:00:41.408Z",
+    "detection_count": 7,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 17,
+    "latitude": 12.973080595448737,
+    "longitude": 77.59407351227465,
+    "timestamp": "2026-02-19T12:00:41.408Z",
+    "detection_count": 29,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 18,
+    "latitude": 12.97217235447056,
+    "longitude": 77.59543789617068,
+    "timestamp": "2026-02-24T12:00:41.408Z",
+    "detection_count": 6,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 19,
+    "latitude": 12.970541897948525,
+    "longitude": 77.59575059682992,
+    "timestamp": "2026-02-10T12:00:41.408Z",
+    "detection_count": 28,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 20,
+    "latitude": 12.970373646229513,
+    "longitude": 77.59580108214728,
+    "timestamp": "2026-02-27T12:00:41.408Z",
+    "detection_count": 10,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 21,
+    "latitude": 12.972580563629133,
+    "longitude": 77.59494269802187,
+    "timestamp": "2026-02-20T12:00:41.408Z",
+    "detection_count": 29,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 22,
+    "latitude": 12.971060250138743,
+    "longitude": 77.59546764470173,
+    "timestamp": "2026-02-17T12:00:41.408Z",
+    "detection_count": 30,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 23,
+    "latitude": 12.972577191456317,
+    "longitude": 77.59422572823792,
+    "timestamp": "2026-02-21T12:00:41.408Z",
+    "detection_count": 21,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 24,
+    "latitude": 12.97091237914068,
+    "longitude": 77.59534008594201,
+    "timestamp": "2026-02-05T12:00:41.408Z",
+    "detection_count": 22,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 25,
+    "latitude": 12.970149164672227,
+    "longitude": 77.59410374052023,
+    "timestamp": "2026-02-22T12:00:41.408Z",
+    "detection_count": 25,
+    "road_segment_id": "cluster_zone_1"
+  },
+  {
+    "id": 26,
+    "latitude": 12.933745225118203,
+    "longitude": 77.62566074461739,
+    "timestamp": "2026-02-10T12:00:41.408Z",
+    "detection_count": 7,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 27,
+    "latitude": 12.9360289814522,
+    "longitude": 77.62414502927574,
+    "timestamp": "2026-02-03T12:00:41.408Z",
+    "detection_count": 2,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 28,
+    "latitude": 12.93411712636958,
+    "longitude": 77.62585563234057,
+    "timestamp": "2026-02-16T12:00:41.408Z",
+    "detection_count": 5,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 29,
+    "latitude": 12.93557551672773,
+    "longitude": 77.623834688732,
+    "timestamp": "2026-02-23T12:00:41.408Z",
+    "detection_count": 4,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 30,
+    "latitude": 12.934919726687147,
+    "longitude": 77.6252434732881,
+    "timestamp": "2026-02-18T12:00:41.408Z",
+    "detection_count": 5,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 31,
+    "latitude": 12.933732775291098,
+    "longitude": 77.6239037014763,
+    "timestamp": "2026-02-27T12:00:41.408Z",
+    "detection_count": 9,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 32,
+    "latitude": 12.935551971201903,
+    "longitude": 77.62488692056539,
+    "timestamp": "2026-02-08T12:00:41.408Z",
+    "detection_count": 14,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 33,
+    "latitude": 12.93491180232402,
+    "longitude": 77.62413188795063,
+    "timestamp": "2026-02-24T12:00:41.408Z",
+    "detection_count": 4,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 34,
+    "latitude": 12.934838917617716,
+    "longitude": 77.6250941278919,
+    "timestamp": "2026-02-15T12:00:41.408Z",
+    "detection_count": 20,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 35,
+    "latitude": 12.934559365538226,
+    "longitude": 77.62454754097666,
+    "timestamp": "2026-02-02T12:00:41.408Z",
+    "detection_count": 20,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 36,
+    "latitude": 12.934740857076221,
+    "longitude": 77.62540603318848,
+    "timestamp": "2026-03-02T12:00:41.408Z",
+    "detection_count": 5,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 37,
+    "latitude": 12.935163274219283,
+    "longitude": 77.62467665808097,
+    "timestamp": "2026-02-06T12:00:41.408Z",
+    "detection_count": 18,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 38,
+    "latitude": 12.934594172844534,
+    "longitude": 77.62485605688093,
+    "timestamp": "2026-02-19T12:00:41.408Z",
+    "detection_count": 6,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 39,
+    "latitude": 12.936318012655986,
+    "longitude": 77.62345162561134,
+    "timestamp": "2026-02-03T12:00:41.408Z",
+    "detection_count": 15,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 40,
+    "latitude": 12.933789183208088,
+    "longitude": 77.62521081400932,
+    "timestamp": "2026-02-26T12:00:41.408Z",
+    "detection_count": 1,
+    "road_segment_id": "cluster_zone_26"
+  },
+  {
+    "id": 41,
+    "latitude": 13.029282577375659,
+    "longitude": 77.59114840060772,
+    "timestamp": "2026-02-25T12:00:41.408Z",
+    "detection_count": 16,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 42,
+    "latitude": 13.030807549333273,
+    "longitude": 77.5897190589089,
+    "timestamp": "2026-02-08T12:00:41.408Z",
+    "detection_count": 11,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 43,
+    "latitude": 13.02910139328903,
+    "longitude": 77.58961753806038,
+    "timestamp": "2026-02-23T12:00:41.408Z",
+    "detection_count": 19,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 44,
+    "latitude": 13.029414322635978,
+    "longitude": 77.58916189308033,
+    "timestamp": "2026-02-07T12:00:41.408Z",
+    "detection_count": 4,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 45,
+    "latitude": 13.028599791216818,
+    "longitude": 77.59019243305586,
+    "timestamp": "2026-02-27T12:00:41.408Z",
+    "detection_count": 6,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 46,
+    "latitude": 13.028348174028276,
+    "longitude": 77.59058940818309,
+    "timestamp": "2026-02-20T12:00:41.408Z",
+    "detection_count": 20,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 47,
+    "latitude": 13.03045524760125,
+    "longitude": 77.59060442212231,
+    "timestamp": "2026-02-14T12:00:41.408Z",
+    "detection_count": 6,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 48,
+    "latitude": 13.02983930948092,
+    "longitude": 77.59019950792634,
+    "timestamp": "2026-02-23T12:00:41.408Z",
+    "detection_count": 4,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 49,
+    "latitude": 13.02969053293683,
+    "longitude": 77.5908203225818,
+    "timestamp": "2026-02-20T12:00:41.408Z",
+    "detection_count": 3,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 50,
+    "latitude": 13.029372507062455,
+    "longitude": 77.58883446060759,
+    "timestamp": "2026-02-26T12:00:41.408Z",
+    "detection_count": 11,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 51,
+    "latitude": 13.03040003988338,
+    "longitude": 77.59069952981577,
+    "timestamp": "2026-02-14T12:00:41.408Z",
+    "detection_count": 6,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 52,
+    "latitude": 13.03094592378199,
+    "longitude": 77.58884660249124,
+    "timestamp": "2026-03-02T12:00:41.408Z",
+    "detection_count": 7,
+    "road_segment_id": "cluster_zone_41"
+  },
+  {
+    "id": 53,
+    "latitude": 12.927954976280603,
+    "longitude": 77.62766045203773,
+    "timestamp": "2026-02-21T12:00:41.408Z",
+    "detection_count": 2,
+    "road_segment_id": "cluster_zone_53"
+  },
+  {
+    "id": 54,
+    "latitude": 12.927648873360207,
+    "longitude": 77.62751318711797,
+    "timestamp": "2026-02-02T12:00:41.408Z",
+    "detection_count": 9,
+    "road_segment_id": "cluster_zone_53"
+  },
+  {
+    "id": 55,
+    "latitude": 12.928815139639259,
+    "longitude": 77.6260490401304,
+    "timestamp": "2026-02-14T12:00:41.408Z",
+    "detection_count": 10,
+    "road_segment_id": "cluster_zone_53"
+  },
+  {
+    "id": 56,
+    "latitude": 12.928823097497062,
+    "longitude": 77.62587912861896,
+    "timestamp": "2026-02-19T12:00:41.408Z",
+    "detection_count": 9,
+    "road_segment_id": "cluster_zone_53"
+  },
+  {
+    "id": 57,
+    "latitude": 12.929175038249964,
+    "longitude": 77.62673365436474,
+    "timestamp": "2026-02-15T12:00:41.408Z",
+    "detection_count": 9,
+    "road_segment_id": "cluster_zone_53"
+  },
+  {
+    "id": 58,
+    "latitude": 12.929357241532196,
+    "longitude": 77.62702457890325,
+    "timestamp": "2026-02-28T12:00:41.408Z",
+    "detection_count": 8,
+    "road_segment_id": "cluster_zone_53"
+  },
+  {
+    "id": 59,
+    "latitude": 12.92918772434724,
+    "longitude": 77.62653984354229,
+    "timestamp": "2026-02-05T12:00:41.408Z",
+    "detection_count": 1,
+    "road_segment_id": "cluster_zone_53"
+  },
+  {
+    "id": 60,
+    "latitude": 12.92839220949188,
+    "longitude": 77.62571532805927,
+    "timestamp": "2026-02-14T12:00:41.408Z",
+    "detection_count": 1,
+    "road_segment_id": "cluster_zone_53"
+  },
+  {
+    "id": 61,
+    "latitude": 12.968343643674078,
+    "longitude": 77.74942893313082,
+    "timestamp": "2026-02-02T12:00:41.408Z",
+    "detection_count": 3,
+    "road_segment_id": "cluster_zone_61"
+  },
+  {
+    "id": 62,
+    "latitude": 12.969634052318037,
+    "longitude": 77.74951203612892,
+    "timestamp": "2026-02-16T12:00:41.408Z",
+    "detection_count": 8,
+    "road_segment_id": "cluster_zone_61"
+  },
+  {
+    "id": 63,
+    "latitude": 12.968992510235491,
+    "longitude": 77.74966183349713,
+    "timestamp": "2026-03-02T12:00:41.408Z",
+    "detection_count": 10,
+    "road_segment_id": "cluster_zone_61"
+  },
+  {
+    "id": 64,
+    "latitude": 12.969540066969031,
+    "longitude": 77.74929347675804,
+    "timestamp": "2026-02-13T12:00:41.408Z",
+    "detection_count": 2,
+    "road_segment_id": "cluster_zone_61"
+  },
+  {
+    "id": 65,
+    "latitude": 12.968579187982142,
+    "longitude": 77.7487260749247,
+    "timestamp": "2026-02-26T12:00:41.408Z",
+    "detection_count": 8,
+    "road_segment_id": "cluster_zone_61"
+  },
+  {
+    "id": 66,
+    "latitude": 12.970848910090094,
+    "longitude": 77.7509022478467,
+    "timestamp": "2026-02-06T12:00:41.408Z",
+    "detection_count": 8,
+    "road_segment_id": "cluster_zone_61"
+  },
+  {
+    "id": 67,
+    "latitude": 12.968639149631459,
+    "longitude": 77.74886284272185,
+    "timestamp": "2026-02-01T12:00:41.408Z",
+    "detection_count": 2,
+    "road_segment_id": "cluster_zone_61"
+  },
+  {
+    "id": 68,
+    "latitude": 12.975038470149647,
+    "longitude": 77.75603303829757,
+    "timestamp": "2026-02-07T12:00:41.408Z",
+    "detection_count": 10,
+    "road_segment_id": "cluster_zone_68"
+  },
+  {
+    "id": 69,
+    "latitude": 12.975545370555531,
+    "longitude": 77.7556674158215,
+    "timestamp": "2026-02-05T12:00:41.408Z",
+    "detection_count": 3,
+    "road_segment_id": "cluster_zone_68"
+  },
+  {
+    "id": 70,
+    "latitude": 12.974519921339652,
+    "longitude": 77.75454570077378,
+    "timestamp": "2026-03-01T12:00:41.409Z",
+    "detection_count": 1,
+    "road_segment_id": "cluster_zone_68"
+  },
+  {
+    "id": 71,
+    "latitude": 12.975036875577693,
+    "longitude": 77.75481855498428,
+    "timestamp": "2026-02-11T12:00:41.409Z",
+    "detection_count": 6,
+    "road_segment_id": "cluster_zone_68"
+  },
+  {
+    "id": 72,
+    "latitude": 12.975220194586386,
+    "longitude": 77.75515350124768,
+    "timestamp": "2026-02-26T12:00:41.409Z",
+    "detection_count": 6,
+    "road_segment_id": "cluster_zone_68"
+  },
+  {
+    "id": 73,
+    "latitude": 12.97627143404612,
+    "longitude": 77.75402861916197,
+    "timestamp": "2026-02-23T12:00:41.409Z",
+    "detection_count": 6,
+    "road_segment_id": "cluster_zone_68"
+  },
+  {
+    "id": 74,
+    "latitude": 13.006413899093097,
+    "longitude": 77.58051230845422,
+    "timestamp": "2026-02-16T12:00:41.409Z",
+    "detection_count": 2,
+    "road_segment_id": "cluster_zone_74"
+  },
+  {
+    "id": 75,
+    "latitude": 13.007449317343479,
+    "longitude": 77.58135595794569,
+    "timestamp": "2026-02-26T12:00:41.409Z",
+    "detection_count": 10,
+    "road_segment_id": "cluster_zone_74"
+  },
+  {
+    "id": 76,
+    "latitude": 13.006417927043579,
+    "longitude": 77.58075399176816,
+    "timestamp": "2026-02-11T12:00:41.409Z",
+    "detection_count": 1,
+    "road_segment_id": "cluster_zone_74"
+  },
+  {
+    "id": 77,
+    "latitude": 13.00680060841084,
+    "longitude": 77.58250039157738,
+    "timestamp": "2026-02-01T12:00:41.409Z",
+    "detection_count": 10,
+    "road_segment_id": "cluster_zone_74"
+  },
+  {
+    "id": 78,
+    "latitude": 13.00808318488141,
+    "longitude": 77.58220872401431,
+    "timestamp": "2026-03-01T12:00:41.409Z",
+    "detection_count": 9,
+    "road_segment_id": "cluster_zone_74"
+  },
+  {
+    "id": 79,
+    "latitude": 13.008919837883552,
+    "longitude": 77.579328624282,
+    "timestamp": "2026-02-20T12:00:41.409Z",
+    "detection_count": 10,
+    "road_segment_id": "cluster_zone_79"
+  },
+  {
+    "id": 80,
+    "latitude": 13.00913194236901,
+    "longitude": 77.58105162076717,
+    "timestamp": "2026-02-07T12:00:41.409Z",
+    "detection_count": 4,
+    "road_segment_id": "cluster_zone_79"
+  },
+  {
+    "id": 81,
+    "latitude": 13.008367970311257,
+    "longitude": 77.58010913965077,
+    "timestamp": "2026-02-02T12:00:41.409Z",
+    "detection_count": 6,
+    "road_segment_id": "cluster_zone_79"
+  },
+  {
+    "id": 82,
+    "latitude": 13.007365915130293,
+    "longitude": 77.58023720252667,
+    "timestamp": "2026-02-17T12:00:41.409Z",
+    "detection_count": 5,
+    "road_segment_id": "cluster_zone_79"
+  },
+  {
+    "id": 83,
+    "latitude": 12.911224130431346,
+    "longitude": 77.64319603536042,
+    "timestamp": "2026-03-02T12:00:41.409Z",
+    "detection_count": 5,
+    "road_segment_id": "cluster_zone_83"
+  },
+  {
+    "id": 84,
+    "latitude": 12.912789208550056,
+    "longitude": 77.6444160085958,
+    "timestamp": "2026-02-07T12:00:41.409Z",
+    "detection_count": 3,
+    "road_segment_id": "cluster_zone_83"
+  },
+  {
+    "id": 85,
+    "latitude": 12.91282974475784,
+    "longitude": 77.64548009545113,
+    "timestamp": "2026-02-17T12:00:41.409Z",
+    "detection_count": 5,
+    "road_segment_id": "cluster_zone_83"
+  },
+  {
+    "id": 86,
+    "latitude": 12.985913686925587,
+    "longitude": 77.53634303975039,
+    "timestamp": "2026-02-05T12:00:41.409Z",
+    "detection_count": 10,
+    "road_segment_id": "cluster_zone_86"
+  },
+  {
+    "id": 87,
+    "latitude": 12.983661309529772,
+    "longitude": 77.53548042310264,
+    "timestamp": "2026-02-04T12:00:41.409Z",
+    "detection_count": 6,
+    "road_segment_id": "cluster_zone_86"
+  },
+  {
+    "id": 88,
+    "latitude": 12.984793795708006,
+    "longitude": 77.53547153245029,
+    "timestamp": "2026-02-01T12:00:41.409Z",
+    "detection_count": 6,
+    "road_segment_id": "cluster_zone_86"
+  },
+  {
+    "id": 89,
+    "latitude": 12.903556701693038,
+    "longitude": 77.58543862028276,
+    "timestamp": "2026-02-14T12:00:41.409Z",
+    "detection_count": 9,
+    "road_segment_id": "cluster_zone_89"
+  },
+  {
+    "id": 90,
+    "latitude": 12.904278503714236,
+    "longitude": 77.58602028922064,
+    "timestamp": "2026-02-25T12:00:41.409Z",
+    "detection_count": 9,
+    "road_segment_id": "cluster_zone_89"
+  }
+]

@@ -22,7 +22,9 @@ def get_all_potholes():
 
     potholes = []
     for row in rows:
-        potholes.append(dict(row))
+        pothole_dict = dict(row)
+        pothole_dict.pop('severity_score', None)
+        potholes.append(pothole_dict)
 
     return potholes
 
@@ -56,8 +58,11 @@ def api_get_pothole(pothole_id):
     if pothole is None:
         return jsonify({"error": "Not found"}), 404
 
+    pothole_dict = dict(pothole)
+    pothole_dict.pop('severity_score', None)
+
     return jsonify({
-        "pothole": dict(pothole),
+        "pothole": pothole_dict,
         "images": [img["image_path"].replace("\\", "/") for img in images]
     })
 

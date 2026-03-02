@@ -106,3 +106,44 @@ button:focus-visible {
 .pulsing-marker {
   animation: markerPulse 0.5s ease-out forwards;
 }
+
+/* Smooth layer transitions for leaflet map overlays */
+.leaflet-layer,
+.leaflet-overlay-pane svg path,
+.leaflet-heatmap-layer,
+.leaflet-marker-icon,
+.leaflet-marker-shadow {
+  transition: opacity 0.5s ease-in-out !important;
+  animation: fadeMapLayers 0.5s ease-in-out forwards;
+}
+
+@keyframes fadeMapLayers {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+/* Hover effects for User Interface cards & buttons */
+.ui-interactive-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease !important;
+}
+
+.ui-interactive-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+}
+
+.ui-btn {
+  transition: all 0.2s ease !important;
+}
+
+.ui-btn:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4) !important;
+  filter: brightness(0.85);
+  /* Darken instead of brighten */
+}

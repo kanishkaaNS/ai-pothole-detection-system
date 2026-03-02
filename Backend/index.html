@@ -90,36 +90,9 @@
         <h3>Total Potholes</h3>
         <p id="totalCount">0</p>
     </div>
-
-    <div class="stat-box">
-        <h3>High Severity</h3>
-        <p id="highCount">0</p>
-    </div>
-
-    <div class="stat-box">
-        <h3>Medium Severity</h3>
-        <p id="mediumCount">0</p>
-    </div>
-
-    <div class="stat-box">
-        <h3>Low Severity</h3>
-        <p id="lowCount">0</p>
-    </div>
 </div>
 
 <div id="map"></div>
-
-<div id="legend">
-    <div class="legend-item">
-        <div class="legend-color" style="background:red;"></div> High
-    </div>
-    <div class="legend-item">
-        <div class="legend-color" style="background:orange;"></div> Medium
-    </div>
-    <div class="legend-item">
-        <div class="legend-color" style="background:green;"></div> Low
-    </div>
-</div>
 
 <script>
 
@@ -140,9 +113,6 @@ function getMarkerIcon(color) {
 }
 
 let total = 0;
-let high = 0;
-let medium = 0;
-let low = 0;
 
 fetch('/api/potholes')
 .then(res => res.json())
@@ -152,18 +122,7 @@ fetch('/api/potholes')
 
     data.forEach(p => {
 
-        let color;
-
-        if (p.severity_score >= 0.7) {
-            color = "red";
-            high++;
-        } else if (p.severity_score >= 0.4) {
-            color = "orange";
-            medium++;
-        } else {
-            color = "green";
-            low++;
-        }
+        let color = "blue";
 
         let marker = L.marker(
             [p.latitude, p.longitude],
@@ -172,16 +131,12 @@ fetch('/api/potholes')
 
         marker.bindPopup(`
             <b>Pothole ID:</b> ${p.id}<br>
-            <b>Severity:</b> ${p.severity_score.toFixed(2)}<br>
             <b>Frames:</b> ${p.frame_count}<br>
             <b>Date:</b> ${p.timestamp}
         `);
     });
 
     document.getElementById("totalCount").innerText = total;
-    document.getElementById("highCount").innerText = high;
-    document.getElementById("mediumCount").innerText = medium;
-    document.getElementById("lowCount").innerText = low;
 
 });
 
